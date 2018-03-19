@@ -18,7 +18,7 @@ from time import sleep
 app = Flask(__name__)
 
 # Please put your api key here
-os.environ["openweatherapi"] = "a9339d81e4de7ca5c7f055ae54c6e317"
+os.environ["openweatherapi"] = "put your api key here"
 # please put your absolute path to static folder here
 os.environ["path_to_static_folder"] = "/Users/shakti/PycharmProjects/CS122Project3/app/static/" # this is my abs path to static folder
 
